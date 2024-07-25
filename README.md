@@ -1,3 +1,5 @@
+![logo](https://github.com/gokulraktate/gokulraktate/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Gokul Raktate</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
