@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulraktate&label=Profile%20views&color=0e75b6&style=flat" alt="gokulraktate" /> </p>
 
-- 🌱 I’m currently learning **Python and Data Science**
+- 🌱 I’m currently learning **Python and Data Science **
 
 - 📫 How to reach me **gokulsanjayraktate@gmail.com**
 
