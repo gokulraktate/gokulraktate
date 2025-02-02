@@ -9,7 +9,7 @@ Let's build something amazing together!
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/gokulraktate) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white)](https://www.codechef.com/users/gokulraktate) 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=plastic&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gokulsanjapbax) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gokulsanjayrakt1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gokulraktate)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul_raktate_patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-raktate-3a6789216)
